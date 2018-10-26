@@ -1,0 +1,6 @@
+{
+  "test_model.py::TestModel::test_cols": true,
+  "test_model.py::TestModel::test_get_neighbor_count": true,
+  "test_model.py::TestModel::test_rows": true,
+  "test_model.py::TestModel::test_updateMap": true
+}

@@ -1,0 +1,4 @@
+[
+  "test_model.py::TestModel::test_get_neighbor_count",
+  "test_model.py::TestModel::test_updateMap"
+]
